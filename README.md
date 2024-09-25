@@ -1,5 +1,3 @@
-# Hi there, I'm [Maria](https://github.com/rewrewrewwwww) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Data Analyst student, I am from Russia 
 # NLP
 That's a program for jetbot that recognize an input voice from microphone.
 ![5 - with ambient](https://user-images.githubusercontent.com/126909344/222804132-822decde-921d-452d-a4ee-e95cb50c5345.PNG)
